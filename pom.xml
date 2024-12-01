@@ -100,14 +100,14 @@
 	
 	<distributionManagement>
 	    <repository>
-	      <id>javwebapp-releases</id>
+	      <id>maven-releases</id>
 	      <name>javwebapp-releases repo</name>
-	      <url>http://3.108.194.234:8081/repository/javwebapp-releases/</url>
+	      <url>http://65.2.124.117:8081/repository/maven-releases/</url>
 	    </repository>
 	    <snapshotRepository>
-	      <id>javwebapp-snapshots</id>
+	      <id>maven-snapshots</id>
 	      <name>javwebapp-snapshots repo</name>
-	      <url>http://3.108.194.234:8081/repository/javwebapp-snapshots/</url>
+	      <url>http://65.2.124.117:8081/repository/maven-snapshots/</url>
 	    </snapshotRepository>
 	</distributionManagement> 
 	
